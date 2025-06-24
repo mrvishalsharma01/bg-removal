@@ -1,5 +1,5 @@
 // API controller function to manage clerk user with database
-// httm:localhost:4000/api/user/webhooks
+// http:localhost:4000/api/user/webhooks
 
 import { Webhook } from "svix"
 import userModel from "../models/userModel.js"
